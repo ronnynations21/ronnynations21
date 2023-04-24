@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/ronnynations21/ronnynations21.github.io/blob/main/assets/Welcome_to_my_github.png)(https://youtube.com/ronnydiazlop?sub_confirmation=1)
+[![Header](https://github.com/ronnynations21/ronnynations21.github.io/blob/main/assets/Welcome_to_my_github.png)
 
 <p align="center">
     <a href="https://youtube.com/ronnydiazlop?sub_confirmation=1" target="blank" style="margin: 0 20px;">
