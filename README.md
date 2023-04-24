@@ -1,5 +1,4 @@
 ![Header](https://github.com/ronnynations21/ronnynations21.github.io/blob/main/assets/Welcome_to_my_github.png)
-<img align="center" src="https://github.com/ronnynations21/ronnynations21.github.io/blob/main/assets/Welcome_to_my_github.png">
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/ronnydiazlop?sub_confirmation=1)
 [![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/ronnydiazlop)
