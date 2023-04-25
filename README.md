@@ -38,7 +38,8 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronny
 
 
 #### 📝 Artículos de mi web [ronnydiazlop/blog](https://ronnydiazlop/blog/):
-- [Qué demandan las empresas](https://ronnydiazlop/blog/https://ronnydiazlop/blog/que-demandan-las-empresas/)
+- [Qué demandan las empresas hoy](https://ronnydiazlop/blog/https://ronnydiazlop/blog/que-demandan-las-empresas-hoy/)
 - [Autolikes en Instagram con Javascript](https://ronnydiazlop/blog/autolikes-en-instagram-con-javascript/)
-- [Que se trabaja en programación web. Nivel Junior](https://ronnydiazlop/blog/que-se-trabaja-en-programacion-web/)### Hi there 👋
+- [Qué se trabaja en programación web a Nivel Junior](https://ronnydiazlop/blog/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
+👋
 
