@@ -1,1 +1,7 @@
+** v1.0.0
 
+This is version 1 of my react-website-portfolio. I built this initial version some times ago from a Quito, Ecuador and didn't anticipate the amount of usage it received over time. As such, over the time I've seen it lag into somewhat legacy and must apologize to newcomers to the repo.
+
+I've decided that rather than updating this version back to modern standards, I'd rather do a full rebuild as a v2 with more modern coding practice, newest React version, typescript support, easy deployment built in, server-side rendering by default, and several more improvements. Coming soon!
+
+Anyone who would like to help contribute to the new version feel free to reach out, I'd be happy to hear from you.
