@@ -2,6 +2,6 @@
 
 Only clic en the Link below and download and install it.
 
-(https://drive.google.com/file/d/1cOtOmMFdwyqYCnzihp94idJgPvSdlDOx/view?usp=share_link)
+(It will be available soon)
 
 Enjoy and don´t forget to give a Like and Follow me in Github and in my others medias.
