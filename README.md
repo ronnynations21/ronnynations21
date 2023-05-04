@@ -16,7 +16,7 @@ Soy un **Desarrollador Frontend Backend con IA Aplicada** y **Profesor en Colegi
 Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras redes sociales como FB, Pinterest, IG,...
 
 
-## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3ixxxxxxccccvvvS3-NA)
+## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3ixxxxxxccccvvvS3-NA)
 <a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/j6RffffCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
 </a>
