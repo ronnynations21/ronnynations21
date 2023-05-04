@@ -1,6 +1,6 @@
 ![Header](https://github.com/ronnynations21/ronnynations21/blob/main/Welcome_to_my_github.png)
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)]([https://youtube.com/ronnydiazlop?sub_confirmation=1](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw))
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw))
 [![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/ronnydiazlop)
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@ronnydiazlop?)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ronnydiazlop)
