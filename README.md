@@ -1,6 +1,6 @@
 ![Header](https://github.com/ronnynations21/ronnynations21/blob/main/Welcome_to_my_github.png)
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/ronnydiazlop?sub_confirmation=1)
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)]([https://youtube.com/ronnydiazlop?sub_confirmation=1](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw))
 [![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/ronnydiazlop)
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@ronnydiazlop?)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ronnydiazlop)
@@ -12,7 +12,7 @@
 
 
 ## 👉 Sobre mí
-Soy un **Desarrollador Frontend Backend con IA Aplicada** y **Profesor en Colegios, Institutos de Educación Superior, Eventos y Talleres en EducarTdigitalmente [EducarTdigitalmente](https://EducarTdigitalmente.net/contacto-ronnydiazlop)** centrado en desarrollo de aplicaciones web con IA aplicada, formación y educación digital y la creación de contenidos y productos digitales tanto para páginas web como plataformas de genración de contenido.
+Soy un **Desarrollador Frontend Backend con IA Aplicada** y **Profesor en Colegios, Institutos de Educación Superior, Eventos y Talleres en EducarTdigitalmente [EducarTdigitalmente](https://educartdigitalmente.netlify.app)** centrado en desarrollo de aplicaciones web con IA aplicada, formación y educación digital y la creación de contenidos y productos digitales tanto para páginas web como plataformas de genración de contenido.
 Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras redes sociales como FB, Pinterest, IG,...
 
 
@@ -37,9 +37,9 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronny
 </a>
 
 
-#### 📝 Artículos de mi web [ronnydiazlop/blog](https://ronnydiazlop/blog/):
-- [Qué demandan las empresas hoy](https://ronnydiazlop/blog/https://ronnydiazlop/blog/que-demandan-las-empresas-hoy/)
-- [Autolikes en Instagram con Javascript](https://ronnydiazlop/blog/autolikes-en-instagram-con-javascript/)
-- [Qué se trabaja en programación web a Nivel Junior](https://ronnydiazlop/blog/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
+#### 📝 Artículos de mi web [ronnydiazlop/blog](https://reactjs-ronny-blog.netlify.app):
+- [Qué demandan las empresas hoy](https://reactjs-ronny-blog.netlify.app/que-demandan-las-empresas-hoy/)
+- [Autolikes en Instagram con Javascript](https://reactjs-ronny-blog.netlify.app/autolikes-en-instagram-con-javascript/)
+- [Qué se trabaja en programación web a Nivel Junior](https://reactjs-ronny-blog.netlify.app/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
 👋
 
