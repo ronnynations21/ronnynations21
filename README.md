@@ -12,9 +12,10 @@
 
 
 ## 👉 Sobre mí
-Estoy en Lugo - Soy un **Profesor en educarTdigitalmente**[EducarTdigitalmente](https://educartdigitalmente.netlify.app), **Asesor de Proyectos de Desarrollo Sostenibles**, **Asesor de Ecommerce Digital y de Emprendedores**, **Desarrollador Web Frontend Backend y Softwares con IA Aplicada**, **Ingeniero Eléctrico**, **Técnico Informático**, **Técnico Electrónico** y **creador de contenidos para Blog y RRSS**. Por más de 15 años me he dedicado en las siguientes áreas del saber y actividad humana: Educación básica, técnica y superior, Formulación Gestión y Asesorías en Proyectos de Desarrollo Sostenibles en varios países, Marketing Digital y asesorías a Emprendedores Principiantes o que no saben posicionar su negocio online, Desarrollador de aplicaciones Web y Softwares con aplicación de la Inteligencia Artificial, Ingeniero Eléctrico con un postgrado en Programación Virtual, Informático, Técnico Electrónico y creador de contenidos para Blog y RRSS.
+
+Estoy en Lugo - Soy un **Profesor en educarTdigitalmente**[EducarTdigitalmente](https://educartdigitalmente.netlify.app), **Asesor de Proyectos de Desarrollo Sostenibles**, **Asesor de Ecommerce Digital y de Emprendedores**, **Desarrollador Web Frontend Backend y Softwares con IA Aplicada**, **Ingeniero Eléctrico**, **Técnico Informático**, **Técnico Electrónico** y **creador de contenidos para Blog y RRSS**. Por más de 15 años me he dedicado en las siguientes áreas del saber y actividad humana: Educación básica, técnica y superior, Formulación Gestión y Asesorías en Proyectos de Desarrollo Sostenibles en varios países, Marketing Digital y asesorías a Emprendedores Principiantes o que no saben posicionar su negocio online, Desarrollador de aplicaciones Web y Softwares con aplicación de la Inteligencia Artificial, Ingeniero Eléctrico con un postgrado en Programación Virtual, Informático, Técnico Electrónico y creador de contenidos para mi **Blog [reactjs-ronny-blog](https://reactjs-ronny-blog.netlify.app)**  y mis RRSS.
 Apasionado y Centrado en el desarrollo de aplicaciones web con IA aplicada, formación y educación digital para principiantes, emprendedores y PyMES y la creación de contenidos y productos digitales tanto para páginas web como plataformas de generación de contenido con el objetivo de fomentar en otros la Educación Digital y la generación de fuentes de ingresos o de trabajo.
-Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras de mis redes sociales como: Facebook, Pinterest, IG,...
+Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras de mis redes sociales como: Facebook, Pinterest, Instagram y otras más.
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMWsNqg2avxv4-OWbNDlWgw?style=social)
 <a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
@@ -37,7 +38,7 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronny
 </a>
 
 
-#### 📝 Artículos de mi web [ronnydiazlop/blog](https://reactjs-ronny-blog.netlify.app):
+#### 📝 Artículos de mi web [reactjs-ronny-blog](https://reactjs-ronny-blog.netlify.app):
 - [Qué demandan las empresas hoy](https://reactjs-ronny-blog.netlify.app/que-demandan-las-empresas-hoy/)
 - [Autolikes en Instagram con Javascript](https://reactjs-ronny-blog.netlify.app/autolikes-en-instagram-con-javascript/)
 - [Qué se trabaja en programación web a Nivel Junior](https://reactjs-ronny-blog.netlify.app/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
