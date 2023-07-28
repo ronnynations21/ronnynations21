@@ -21,19 +21,19 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronny
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMWsNqg2avxv4-OWbNDlWgw?style=social)
 <a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tus PROYECTOS - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/j6RffffCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tus PROYECTOS' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=1hDGffffqM' title="La IA y el desarrollo web - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/1hcccccM/maxresdefault.jpg' alt='La IA y el desarrollo web' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=GddddbOs' title="Usando GITHUB para tu PORTAFOLIO - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/GC_Vddddds/maxresdefault.jpg' alt='Usando GITHUB para tu PORTAFOLIO' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=-cggggg' title="Setup de Desarrollo Web 2023 - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/-chk3tKggggggg/maxresdefault.jpg' alt='Setup de Desarrollo Web 2023' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=WCUjjjjjj8' title="Creando desde cero tu Landingpage - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/WCUASjjjjjjjj8/maxresdefault.jpg' alt='Creando desde cero tu Landingpage' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Charlas de programación con Código Html, Css, Bootstrap y Javascript - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Charlas de programación con Código Html, Css, Bootstrap y Javascript' />
 </a>
