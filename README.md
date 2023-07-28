@@ -18,6 +18,8 @@ Apasionado y Centrado en la asesoria, formulación y gestión de Proyectos de De
 
 Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras de mis redes sociales como: Facebook, Pinterest, Instagram y otras más.
 
+En este sitio web puedes ver mi Currículum de Vida completo y actualizado 2023. Lo actualizo frecuentemente y cuando lo leas, escríbeme y déjame saber tus comentarios. Estoy atento a cualquier oferta de trabajo relacionada con mi CV. **[CV 2023 de Ronny Diaz](https://reactjs-ronny-portafolio.netlify.app/)**. 
+
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMWsNqg2avxv4-OWbNDlWgw?style=social)
 <a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tus PROYECTOS - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/j6RffffCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tus PROYECTOS' />
