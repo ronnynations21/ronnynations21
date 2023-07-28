@@ -19,23 +19,23 @@ Apasionado y Centrado en la asesoria, formulación y gestión de Proyectos de De
 Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/ronnydiazlop?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/ronnydiazlop)**, **Videos cortos y rápidos en [TikTok](http://tiktok.com/@ronnydiazlop)** y mucho más en otras de mis redes sociales como: Facebook, Pinterest, Instagram y otras más.
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UCMWsNqg2avxv4-OWbNDlWgw) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCMWsNqg2avxv4-OWbNDlWgw?style=social)
-<a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
-  <img width='32%'  src='https://i3.ytimg.com/vi/j6RffffCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
+<a href='https://www.youtube.com/watch?v=jfffffffqCe4hTs' title="Aplicando el método LEAN Startup en tus PROYECTOS - ver en Youtube" target='_blank'>
+  <img width='32%'  src='https://i3.ytimg.com/vi/j6RffffCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tus PROYECTOS' />
 </a>
 <a href='https://www.youtube.com/watch?v=1hDGffffqM' title="La IA y el desarrollo web - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/1hcccccM/maxresdefault.jpg' alt='La IA y el desarrollo web' />
 </a>
-<a href='https://www.youtube.com/watch?v=GddddbOs' title="GIT y El Señor de los anillos - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://img.youtube.com/vi/GC_Vddddds/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
+<a href='https://www.youtube.com/watch?v=GddddbOs' title="Usando GITHUB para tu PORTAFOLIO - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://img.youtube.com/vi/GC_Vddddds/maxresdefault.jpg' alt='Usando GITHUB para tu PORTAFOLIO' />
 </a>
 <a href='https://www.youtube.com/watch?v=-cggggg' title="Setup de Desarrollo Web 2023 - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/-chk3tKggggggg/maxresdefault.jpg' alt='Setup de Desarrollo Web 2023' />
 </a>
-<a href='https://www.youtube.com/watch?v=WCUjjjjjj8' title="Clonando la web de Netflix - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/WCUASjjjjjjjj8/maxresdefault.jpg' alt='Clonando la web de Netflix' />
+<a href='https://www.youtube.com/watch?v=WCUjjjjjj8' title="Creando desde cero tu Landingpage - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/WCUASjjjjjjjj8/maxresdefault.jpg' alt='Creando desde cero tu Landingpage' />
 </a>
-<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
+<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Charlas de programación con Código Html, Css, Bootstrap y Javascript - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Charlas de programación con Código Html, Css, Bootstrap y Javascript' />
 </a>
 
 
