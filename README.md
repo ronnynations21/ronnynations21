@@ -39,11 +39,15 @@ En este sitio web puedes ver mi Currículum de Vida completo y actualizado 2023.
 <a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia' />
 </a>
+<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Que es la AGRIPERMACOLOGÍA HOLÍSTICA" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Qué es la AgriPermaCología Holística' />
+</a>
 
 #### 📝 Artículos de mi Blog [reactjs-ronny-blog](https://reactjs-ronny-blog.netlify.app):
 - [Qué demandan las empresas hoy](https://reactjs-ronny-blog.netlify.app/que-demandan-las-empresas-hoy/)
 - [Autolikes en Instagram con Javascript](https://reactjs-ronny-blog.netlify.app/autolikes-en-instagram-con-javascript/)
 - [Qué se trabaja en programación web a Nivel Junior](https://reactjs-ronny-blog.netlify.app/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
 - [Qué es un Proyecto de Agricultura Familiar Sostenible](https://reactjs-ronny-blog.netlify.app/Que-es-un-Proyecto-de-Agricultura-Familiar-Sostenible/)
+- [Qué es la AgriPermaCología Holística](https://reactjs-ronny-blog.netlify.app/Que-es-la-AgriPermaCologia-Holistica/)
 👋
 
