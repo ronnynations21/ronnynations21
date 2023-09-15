@@ -38,7 +38,7 @@ En este sitio web puedes ver mi Currículum de Vida completo y actualizado 2023.
 </a><br>
 <a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia' />
-</a>
+</a><br>
 <a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Que es la AGRIPERMACOLOGÍA HOLÍSTICA" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Qué es la AgriPermaCología Holística' />
 </a>
