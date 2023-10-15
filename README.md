@@ -27,8 +27,8 @@ En este sitio web puedes ver mi Currículum de Vida completo y actualizado 2023.
 <a href='https://www.youtube.com/watch?v=GddddbOs' title="Usando GITHUB para tu PORTAFOLIO - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/GC_Vddddds/maxresdefault.jpg' alt='Usando GITHUB para tu PORTAFOLIO' />
 </a><br>
-<a href='https://www.youtube.com/watch?v=-cggggg' title="Setup de Desarrollo Web 2023 - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://img.youtube.com/vi/-chk3tKggggggg/maxresdefault.jpg' alt='Setup de Desarrollo Web 2023' />
+<a href='https://www.youtube.com/watch?v=-cggggg' title="La IA en nuestra vida diaria - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://img.youtube.com/vi/-chk3tKggggggg/maxresdefault.jpg' alt='La IA en nuestra vida diaria' />
 </a><br>
 <a href='https://www.youtube.com/watch?v=WCUjjjjjj8' title="Creando desde cero tu Landingpage - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/WCUASjjjjjjjj8/maxresdefault.jpg' alt='Creando desde cero tu Landingpage' />
@@ -36,19 +36,20 @@ En este sitio web puedes ver mi Currículum de Vida completo y actualizado 2023.
 <a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Charlas de programación con Código Html, Css, Bootstrap y Javascript - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Charlas de programación con Código Html, Css, Bootstrap y Javascript' />
 </a><br>
-<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Cómo Iniciar una Idea o proyecto de Agricultura Familiar Sostenible con mi familia' />
+<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Cómo Iniciar una Idea o proyecto de Agroecología Familiar Integral con mi familia" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Cómo Iniciar una Idea o proyecto de Agroecología Familiar Integral con mi familia' />
 </a><br>
-<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Que es la AGRIPERMATECOLOGÍA FAMILIAR" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Qué es la AgriPermaTeCología Familiar' />
+<a href='https://www.youtube.com/watch?v=P5eeeeeees' title="Que es la AGRIPERMATECOLOGÍA INTEGRAL" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51Peeeeeeees/maxresdefault.jpg' alt='Qué es la AgriPermaTeCología Integral' />
 </a>
 
 #### 📝 Artículos de mi Blog [reactjs-ronny-blog](https://reactjs-ronny-blog.netlify.app):
 - [Qué demandan las empresas hoy](https://reactjs-ronny-blog.netlify.app/que-demandan-las-empresas-hoy/)
 - [Autolikes en Instagram con Javascript](https://reactjs-ronny-blog.netlify.app/autolikes-en-instagram-con-javascript/)
 - [Qué se trabaja en programación web a Nivel Junior](https://reactjs-ronny-blog.netlify.app/que-se-trabaja-en-programacion-web-a-nivel-Junior/)
-- [Qué es un Proyecto de Agricultura Familiar Sostenible](https://reactjs-ronny-blog.netlify.app/Que-es-un-Proyecto-de-Agricultura-Familiar-Sostenible/)
-- [Qué es la AgriPermaTeCología Holística](https://reactjs-ronny-blog.netlify.app/Que-es-la-AgriPermaCologia-Holistica/)
-- [Cómo posicionar una MipYME de manera Online](https://reactjs-ronny-blog.netlify.app/Como-posicnar-mi-negocio-online/)
+- [Qué es un Proyecto de Agroecología Familiar Integral](https://reactjs-ronny-blog.netlify.app/Que-es-un-Proyecto-de-Agroecologia-Familiar-Integral/)
+- [Qué es la AgriPermaTeCología Integral](https://reactjs-ronny-blog.netlify.app/Que-es-la-AgriPermaTeCologia-Integral/)
+- [Cómo posicionar una MiPYME de manera Online Desde Cero](https://reactjs-ronny-blog.netlify.app/Como-posicionar-mi-negocio-online-desde-cero/)
+- [Qué es la Programación con Machine Learning](https://reactjs-ronny-blog.netlify.app/Que-es-la-programacion-con-machine-learning/)
 👋
 
